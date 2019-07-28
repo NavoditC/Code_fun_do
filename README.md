@@ -7,3 +7,8 @@ Ideas intended to be implemented:
 ->To develop a blockchain by which every citizen gets to know whom he or she has voted for ensuring that confidentiality is maintained by means of encryption.
 ->To include the name of the person who has turned 18 years of age automatically in the voter list.
 ->To make the EVMs secure such that they are not hacked by fraudulent means.
+
+Techniques:
+->Blockchain technology
+->Encryption
+->Web development
